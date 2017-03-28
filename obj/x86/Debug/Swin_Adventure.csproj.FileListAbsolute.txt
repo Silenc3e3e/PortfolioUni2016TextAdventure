@@ -1,0 +1,8 @@
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks\Swin-Adventure Game\Swin_Adventure\bin\Debug\Swin_Adventure.exe
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks\Swin-Adventure Game\Swin_Adventure\bin\Debug\Swin_Adventure.pdb
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks\Swin-Adventure Game\Swin_Adventure\obj\x86\Debug\Swin_Adventure.exe
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks\Swin-Adventure Game\Swin_Adventure\obj\x86\Debug\Swin_Adventure.pdb
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\bin\Debug\Swin_Adventure.exe
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\bin\Debug\Swin_Adventure.pdb
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\obj\x86\Debug\Swin_Adventure.exe
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\obj\x86\Debug\Swin_Adventure.pdb

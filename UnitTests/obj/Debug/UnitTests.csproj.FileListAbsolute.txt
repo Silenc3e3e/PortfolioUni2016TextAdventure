@@ -1,0 +1,9 @@
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\bin\Debug\UnitTests.dll
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\bin\Debug\UnitTests.pdb
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\bin\Debug\nunit.framework.dll
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\bin\Debug\Swin_Adventure.exe
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\bin\Debug\Swin_Adventure.pdb
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\bin\Debug\nunit.framework.xml
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\obj\Debug\UnitTests.dll
+E:\Luke's documents\Uni\Year 1 Semester 2\Object Orientated Programming\USB backup tasks 2 19 8\Swin-Adventure Game\Swin_Adventure\UnitTests\obj\Debug\UnitTests.pdb

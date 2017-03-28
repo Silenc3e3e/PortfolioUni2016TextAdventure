@@ -1,0 +1,20 @@
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/UnitTests.dll.mdb
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/UnitTests.dll
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/UnitTests.dll
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/UnitTests.dll.mdb
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/nunit.framework.dll
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/Swin_Adventure.exe
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/Swin_Adventure.exe.mdb
+/Volumes/NO NAME/object Programming/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/Swin_Adventure.pdb
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/UnitTests.dll.mdb
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/UnitTests.pdb
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/UnitTests.dll
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/UnitTests.dll
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/UnitTests.dll.mdb
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/obj/Debug/UnitTests.pdb
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/nunit.framework.dll
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/Swin_Adventure.exe
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/Swin_Adventure.exe.mdb
+/Volumes/NO NAME/Object  Orientated programming 8 9 2016/Swin-Adventure Game/Swin_Adventure/UnitTests/bin/Debug/Swin_Adventure.pdb
